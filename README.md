@@ -46,9 +46,9 @@ All hints for CLIs like `bitbake`, `bitbake-layers`, `devtool` etc. used within 
 | __Show recipe cross-depends__ |   `bitbake-layers show-cross-depends`                                            |
 | __List layer dependencies from OE Index__ |   `bitbake-layers layerindex-show-depends <layer_name>`              |
 | __Fetch & add layer using OE Index__      |   `bitbake-layers layerindex-fetch <layer name>`                     |
+| __Find recipe from file in sysroot__      |   `oe-pkgdata-util find-path <file-path>`                            |
 
-
-
+ 
 
 ## Configuration
 
